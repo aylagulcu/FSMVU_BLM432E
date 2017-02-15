@@ -5,7 +5,7 @@
 python distribution: Anaconda ( https://www.continuum.io/downloads)
 
 ### Useful Links:
-https://docs.python.org/3/tutorial/index.html
-www.learning-python.com
-http://thinkpython.com/
-https://www.codecademy.com/learn/python
+* https://docs.python.org/3/tutorial/index.html
+* www.learning-python.com
+* http://thinkpython.com/
+* https://www.codecademy.com/learn/python
