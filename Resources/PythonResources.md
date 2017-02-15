@@ -1,5 +1,7 @@
 
-### Book: Learning Python, 5th Edition Powerful Object-Oriented Programming,  Mark Lutz, Publisher: O'Reilly Media, June 2013
+### Books: 
+* Learning Python, 5th Edition Powerful Object-Oriented Programming,  Mark Lutz, Publisher: O'Reilly Media, June 2013
+* Think Python, How to Think Like a Computer Scientist, Allen Downey, Green Tea Press, 2012
 
 ### Software: 
 python distribution: Anaconda ( https://www.continuum.io/downloads)
