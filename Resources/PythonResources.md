@@ -11,3 +11,4 @@ python distribution: Anaconda ( https://www.continuum.io/downloads)
 * www.learning-python.com
 * http://thinkpython.com/
 * https://www.codecademy.com/learn/python
+* www.datacamp.com
