@@ -1,5 +1,3 @@
-Lecture 0: Python' a giriş yapıldı, datacamp interactive ders listeler dahil sınıfta çözüldü
-
 Lecture1: 
     Bilgisayarda Anaconda python 3 olmayanlar download edip kuracak
     Python:
