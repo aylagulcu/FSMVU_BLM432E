@@ -1,0 +1,8 @@
+Statistics:
+  * examples - hypothesis testing
+  * Chapter 5: Inference for numerical data
+  
+ Python:
+   * Iteration, comprehensions
+   * Functions - basics
+   * Quiz 1
