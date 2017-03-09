@@ -1,8 +1,8 @@
 Statistics:
   * examples - hypothesis testing
-  * Chapter 5: Inference for numerical data
+  * Chapter 5: Inference for numerical data, t-distribution an introduction
   
  Python:
    * Iteration, comprehensions
    * Functions - basics
-   * Quiz 1
+   * Quiz 1 -- Questions and Answers have been uploded!
