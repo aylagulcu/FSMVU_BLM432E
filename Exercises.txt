@@ -1,0 +1,30 @@
+Try to solve each of the following questions. 
+Even if you cannot find a correct solution, it is very important for you to study these exercises.
+
+1 Write a program that computes and prints the 1000 th prime number.
+2 Write two functions, called countSubStringMatch and countSubStringMatchRecursive that take two arguments, 
+  a key string and a target string. These functions iteratively and recursively count the number of instances of the key 
+  in the target string.  
+3 Write a function named "adder" to accept and sum/concatenate an arbitrary number of keyword arguments
+4 Write a function called addDict(dict1, dict2) that computes the union of two dictionaries. 
+  It should return a new dictionary containing all the items. 
+  If the same key appears in both arguments, feel free to pick a value from either. 
+  What happens if you pass lists instead of dictionaries? How could you generalize your function to handle this case,too? 
+  (Hint: see the type built-in function used earlier.) Does the order of the arguments passed in matter?
+5 Iterations and comprehensions. Write code to build a new list containing the square roots of all the numbers in this list: 
+  [2, 4, 9, 16, 25]. Code this as a :
+    ** for loop first,
+    ** then as a map call,
+    ** then as a list comprehension, 
+    ** and finally as a generator expression. 
+   Use the sqrt function in the built-in math module to do the calculation (i.e.,import math and say math.sqrt(x) ). 
+   Of the four, which approach do you like best?
+6 Write the function subStringMatchExact. This function takes two arguments: a target string, and a key string. 
+  It should return a tuple of the starting points of matches of the key string in the target string, when indexing starts at 0.
+7 Implement a function to compute the sum of the following structure recursively:
+  A= [1, [2, [3, 4], 5], 6, [7, 8]]
+  your function should be able to handle a list with arbitrary number of levels of inner lists!
+8 List comprehension:  Given a mxn matrix as shown below, create a new matrix in which each element is equal to the 
+  qth power of the corresponding element in the given matrix.  
+  Write a function named "newMatrix". M = [[1, 2, 3],  [4, 5, 6], [7, 8, 9]]
+  
