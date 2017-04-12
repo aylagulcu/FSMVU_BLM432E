@@ -1,0 +1,10 @@
+https://matplotlib.org/basemap/#
+conda install basemap
+
+
+http://scitools.org.uk/cartopy/
+conda install -c conda-forge cartopy
+
+
+
+
