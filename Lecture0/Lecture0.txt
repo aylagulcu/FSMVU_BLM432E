@@ -1,6 +1,0 @@
-Introduction to Python 
-  "datacamp" interactive python course
-  Installation
-  Python modes (scripts and interactive python)
-  Ipython
-  Python data types
