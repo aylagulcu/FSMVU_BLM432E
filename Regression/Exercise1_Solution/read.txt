@@ -1,0 +1,14 @@
+http://data.princeton.edu/wws509/datasets
+
+Discrimination in Salaries
+These are the salary data used in Weisberg's book, consisting of observations on six variables for 52 tenure-track professors in a small college. The variables are:
+
+sx = Sex, coded 1 for female and 0 for male
+rk = Rank, coded
+1 for assistant professor,
+2 for associate professor, and
+3 for full professor
+yr = Number of years in current rank
+dg = Highest degree, coded 1 if doctorate, 0 if masters
+yd = Number of years since highest degree was earned
+sl = Academic year salary, in dollars.
